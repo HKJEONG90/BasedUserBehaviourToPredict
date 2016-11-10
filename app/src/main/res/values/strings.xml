@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="music_service_text">음악 서비스 테스트</string>
+    <string name="startBtn">시작</string>
+    <string name="stopBtn">중지</string>
+    <string name="checkBtn">확인</string>
+    <string name="checkNum">0</string>
+</resources>
